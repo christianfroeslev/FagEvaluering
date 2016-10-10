@@ -1,1 +1,3 @@
-// hello.
+public class main {
+    
+}

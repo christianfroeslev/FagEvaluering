@@ -6,6 +6,7 @@ public class main {
         larsLort = "Lars er egentlig bare en lort";
 
         larsLort = "Ikke en lort alligevel";
+        larsLort = "Et røvhul - er han";
     }
 }
 
